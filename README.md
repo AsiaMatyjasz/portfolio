@@ -27,4 +27,9 @@ testowanie ekspolarycjne aplikacji webowej oraz mobilnej, pisanie przypadków te
 
 [github challenge portfolio](https://github.com/AsiaMatyjasz/challenge_portfolio_joannamatyjasz)
 
-
+## Narzędzia które poznałam
+* Jira
+* github
+* devtools
+* xampp
+* slack
