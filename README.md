@@ -61,7 +61,7 @@ testowanie ekspolarycjne aplikacji webowej oraz mobilnej, pisanie przypadków te
 
 
 
-## Znajomość :pushpin::
+## Znajomość :pushpin:
 * ISTQB
 * SQL podstawy
 * postman
