@@ -41,6 +41,26 @@ testowanie ekspolarycjne aplikacji webowej oraz mobilnej, pisanie przypadków te
 
 [github challenge portfolio](https://github.com/AsiaMatyjasz/challenge_portfolio_joannamatyjasz)
 
+## Przykłady
+
+* raporty błędów z testowania eksploracyjengo aplikacji olx:
+
+[raporty błedów](https://docs.google.com/spreadsheets/d/1FDgeId1QS5ENXrZeQNMKK7LMUMQ4Rtbc/edit#gid=1468098489)
+
+* raporty błędów w Jirze z testowania eksploracyjengo aplikacji webowej https://swipeto.pl/:
+
+[raporty błedów Jira](https://drive.google.com/file/d/1gYtx3Qod24DD92hn67CKMxajabjRh9dO/view?usp=share_link)
+
+* przypadki testowe na podstawie User story (https://scouts-test.futbolkolektyw.pl/):
+
+[przypadki testowe](https://docs.google.com/spreadsheets/d/1jssZ19mPhnLEkQjJ5264AYv4nxqdRPZ5/edit#gid=2053595689)
+
+* przypadki testowe na podstawie testowania eksploracyjnego (https://scouts-test.futbolkolektyw.pl/):
+
+[przypadki testowe](https://docs.google.com/spreadsheets/d/1cI-SRuJM7iyTg2ph4tk40krZENQ8k5gO/edit#gid=674694674)
+
+
+
 ## Znajomość:
 * ISTQB
 * SQL podstawy
