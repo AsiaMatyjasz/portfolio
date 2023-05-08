@@ -14,6 +14,7 @@ nowych wyzwań. Wyróżnia mnie zaangażowanie, umiejętność rozwiązywania
 problemów, dobra praca zespołowa oraz chęć do nauki i dalszego rozwoju.
 
 [Linkedin](www.linkedin.com/in/joanna-matyjasz-14b51715)
+
 [CV](https://drive.google.com/file/d/1xA7iUMGKrdFgdES341MUtX4gUAWIUZvx/view?usp=share_link)
 
 
