@@ -17,7 +17,7 @@ problemów, dobra praca zespołowa oraz chęć do nauki i dalszego rozwoju.
 
 
 
-## Certyfikaty i szkolenia
+## Certyfikaty i szkolenia :pencil2: 
 
 * Certyfikowany Tester ISTQB® Poziom Podstawowy| SJSI
 * The Complete SQL Bootcamp: Go from Zero to Hero| Udemy
@@ -27,7 +27,7 @@ problemów, dobra praca zespołowa oraz chęć do nauki i dalszego rozwoju.
 
 
 
-## Projekty
+## Projekty :rocket:
 
 * Cherry-IT: COLT 1/2023 prowadzony przez Annę Czyrko
 
@@ -41,7 +41,7 @@ testowanie ekspolarycjne aplikacji webowej oraz mobilnej, pisanie przypadków te
 
 [github challenge portfolio](https://github.com/AsiaMatyjasz/challenge_portfolio_joannamatyjasz)
 
-## Przykłady
+## Przykłady :bookmark_tabs:
 
 * raporty błędów z testowania eksploracyjengo aplikacji olx:
 
@@ -61,7 +61,7 @@ testowanie ekspolarycjne aplikacji webowej oraz mobilnej, pisanie przypadków te
 
 
 
-## Znajomość:
+## Znajomość :pushpin::
 * ISTQB
 * SQL podstawy
 * postman
