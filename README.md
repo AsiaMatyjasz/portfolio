@@ -44,7 +44,7 @@ testowanie ekspolarycjne aplikacji webowej oraz mobilnej, pisanie przypadków te
 
 ## Przykłady :bookmark_tabs:
 
-* raporty błędów z testowania eksploracyjengo aplikacji olx:
+* raporty błędów z testowania eksploracyjnego aplikacji olx:
 
 [raporty błedów](https://docs.google.com/spreadsheets/d/1FDgeId1QS5ENXrZeQNMKK7LMUMQ4Rtbc/edit#gid=1468098489)
 
