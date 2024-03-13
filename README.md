@@ -4,18 +4,11 @@
 
 
 ## Profil osobisty
-Jestem osobą z 8 letnim doświadczeniem w obszarze zapewnienia jakości
-w branży spożywczej. Obecnie chciałabym zmienić zapewnienie jakości
-w branży spożywczej na zapewnienie jakości w branży IT. Skończyłam kurs
-tester oprogramowania a swoją wiedzę z zakresu ISTQB potwierdziłam
-zdanym egzaminem zorganizowanym przez SJSI. Jestem osobą
-odpowiedzialną, z entuzjazmem podchodzącą do wykonywanej pracy oraz
-nowych wyzwań. Wyróżnia mnie zaangażowanie, umiejętność rozwiązywania
-problemów, dobra praca zespołowa oraz chęć do nauki i dalszego rozwoju.
+Pracuję jako tester manualny w software house w kilku projektach- pisanie scenariuszy testowych, przygotowywanie dokumentacji użytkownika oraz przeprowadzanie testów manualnych. Ponadto posiadam 8 letnie doświadczenie w zapewnieniu jakości w branży spożywczej, które nauczyło mnie nie tylko odpowiedzialności za wykonywane zadania, ale także umiejętności skrupulatnego podejścia do każdego aspektu mojej pracy. Jestem osobą z entuzjazmem podchodzącą do wykonywanej pracy oraz nowych wyzwań. Wyróżnia mnie zaangażowanie, umiejętność rozwiązywania problemów, dobra praca zespołowa oraz chęć do nauki i dalszego rozwoju.
 
 [Linkedin](www.linkedin.com/in/joanna-matyjasz-14b51715)
 
-[CV](https://drive.google.com/file/d/1xA7iUMGKrdFgdES341MUtX4gUAWIUZvx/view?usp=share_link)
+
 
 
 ## Certyfikaty i szkolenia :pencil2: 
